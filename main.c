@@ -34,5 +34,9 @@ void configure_timer(void)
 void SysTick_isr(void)
 {
     count++;
+    /*
+     * Your code
+     *
+     * */
 }
 
